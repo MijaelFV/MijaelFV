@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MijaelFV
+- 👋 Hi, I’m Mijael Eros Flores Vega
 - 👀 I’m interested in web and app developing
 - 🌱 I’m currently learning several programming languages and their frameworks
 - 💞️ I’m looking to collaborate on *

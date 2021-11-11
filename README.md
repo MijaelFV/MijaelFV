@@ -1,4 +1,7 @@
-![](https://raw.githubusercontent.com/MijaelFV/MijaelFV/main/Mijael_Eros_Flores_Vega.png)
+<!-- ![](https://raw.githubusercontent.com/MijaelFV/MijaelFV/main/Mijael_Eros_Flores_Vega.png) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MijaelFV/MijaelFV/main/Mijael_Eros_Flores_Vega.png" alt="Mijael's banner"/>
+</p>
 
 # Hey! 👋
 I'm Mijael, in summary i have 20 years old and i'm want to climb to the top. I'm learning everyday everything i need to become not just a developer, but the developer. I do it for my future, for the people that i can make happy, but most for my family.

@@ -28,6 +28,8 @@ I'm Mijael, in summary i have 20 years old and i'm want to climb to the top. I'm
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mijaelfv&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMijaelFV&count_bg=%2379C83D&title_bg=%23555555&icon=myspace.svg&icon_color=%2370FF00&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!---
 MijaelFV/MijaelFV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

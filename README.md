@@ -4,7 +4,7 @@
 </p>
 
 # Hey! 👋
-I'm Mijael, in summary i have 20 years old and i'm want to climb to the top. I'm learning everyday everything i need to become not just a developer, but the developer. I do it for my future, for the people that i can make happy, but most for my family.
+I'm Mijael, in summary i have 20 years old and i'm want to climb to the top. I'm learning everyday everything i need to become not just a developer, but the developer. I do it for my future, for the idea of make people happy with my creations, but most for my family.
 
 At this time i don't have a portfolio page and neither a fully linkedin description of my person but i will have one when i feel ready to find a job.
 

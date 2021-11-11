@@ -11,21 +11,21 @@ At this time i don't have a portfolio page and neither a fully linkedin descript
 <a href="https://www.linkedin.com/in/mijaelfv/"><img src="https://img.shields.io/badge/mijaelfv-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2" /></a>
 
 # Knowledge
-![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=black&color=363636)
+![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=black&color=764ABC)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=black&color=339933)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=black&color=47A248)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=black&color=31A8FF)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=black&color=F05032)
-![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=black&color=0081CB)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=black&color=CC6699)
-![](https://img.shields.io/badge/Css3-informational?style=flat&logo=CSS3&logoColor=black&color=1572B6)
-![](https://img.shields.io/badge/Html-informational?style=flat&logo=HTML5&logoColor=black&color=E34F26)
-
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=0081CB)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
+![](https://img.shields.io/badge/Css3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Html-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijaelfv&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)

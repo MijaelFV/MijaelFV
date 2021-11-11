@@ -5,7 +5,11 @@
 
 # Hey! 👋
 I'm Mijael, in summary i have 20 years old and i'm want to climb to the top. I'm learning everyday everything i need to become not just a developer, but the developer. I do it for my future, for the people that i can make happy, but most for my family.
- 
+
+At this time i don't have a portfolio page and neither a fully linkedin description of my person but i will have one when i feel ready to find a job.
+
+<a href="https://www.linkedin.com/in/mijaelfv/"><img src="https://img.shields.io/badge/mijaelfv-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2" /></a>
+
 # Knowledge
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=black&color=363636)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)

@@ -32,7 +32,7 @@ At this time i don't have a portfolio page and neither a fully linkedin descript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mijaelfv&theme=noctis_minimus&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMijaelFV&count_bg=%2379C83D&title_bg=%23555555&icon=myspace.svg&icon_color=%2370FF00&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=MijaelFV&label=Profile+Views)
 
 <!---
 MijaelFV/MijaelFV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

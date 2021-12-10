@@ -14,6 +14,7 @@ At this time i don't have a portfolio page and neither a fully linkedin descript
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=02569B)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)

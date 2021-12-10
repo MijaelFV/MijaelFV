@@ -22,7 +22,7 @@ At this time i don't have a portfolio page and neither a fully linkedin descript
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=Material-UI&logoColor=white&color=0081CB)
+![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=MUI&logoColor=white&color=007FFF)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
 ![](https://img.shields.io/badge/Css3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Html-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)

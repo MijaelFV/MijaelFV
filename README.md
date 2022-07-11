@@ -13,11 +13,6 @@ __Stats:__
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijaelfv&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
-__Last 14 days:__   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mijaelfv&theme=noctis_minimus&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=MijaelFV&label=Profile+Views)
-
 <!---
 MijaelFV/MijaelFV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
